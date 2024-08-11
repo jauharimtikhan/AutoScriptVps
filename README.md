@@ -1,9 +1,9 @@
-# Cara Install AutoScriptVps
+<h1 align="center">Cara Install AutoScriptVps</h1>
 
-<h2 align="center"> Supported Linux Distribution</h2>
-<p align="center">Ubuntu 18.xx/20.xx & Debian 9/10</p>
+<h2 align="left"> Supported Linux Distribution</h2>
+<p align="left">Ubuntu 18.xx/20.xx & Debian 9/10</p>
 
-<h3 align="center"> VPS Wajib Yang Masih Fresh Belum Terinstall Apapun!!!</h3>
+<h3 align="left"> VPS Wajib Yang Masih Fresh Belum Terinstall Apapun!!!</h3>
 
 <br>
 
