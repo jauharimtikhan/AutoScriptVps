@@ -62,29 +62,6 @@
 - Trojan gRPC              : 443<br>
 - Shadowsocks gRPC         : 443<br>
 <br>
-  
-## Feature
-- Speedtest® by [Ookla®](https://speedtest.net)
-- Set Auto Reboot
-- Restart All Service
-- AUTO delete user Expired 
-- Check Bandwith
-- BBRPLUS version 1.4.0 by [Chikage0o0](https://github.com/Chikage0o0) What is BBR [Search now BBR](https://www.google.com/search?q=what+bbr+in+linux)
-- DNS CHANGER
-- no auto backup? which... is permanently removed
-- Just accept the existing features / you can add them yourself manually
-- Additional Features (Optional) skipper (NOTE) install after [Step Install] is complete
-- Optional [install OpenVPN + Slowdns +](https://github.com/jauharimtikhan/AutoScriptVps/tree/master/udp-custom) UDP-Custom by [Exe302](https://gitlab.com/Exe302) + Slowdns by [SL](https://github.com/fisabiliyusri)
-- Optional [install Panel Webmin + ADS Block](https://github.com/jauharimtikhan/AutoScriptVps/tree/master/helium) Helium version 3.0 by [Abi Darwish](https://github.com/abidarwish)
-- Optional [install Bot Telegram Xolpanel](https://github.com/jauharimtikhan/AutoScriptVps/tree/master/bot%20telegram%20panel) by [XolvaID](https://github.com/XolvaID)
-  
-# Menu
-![Service Status](https://raw.githubusercontent.com/jauharimtikhan/AutoScriptVps/master/image/menu.png)
-
-# Service Status
-
-![Service Status](https://raw.githubusercontent.com/jauharimtikhan/AutoScriptVps/master/image/service.png)
-
 # [Step Install]
 
 - Step 1 for (debian) please update first
@@ -98,24 +75,6 @@ apt update && apt upgrade -y && reboot
 ```
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/jauharimtikhan/AutoScriptVps/master/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 ```
-
-# Telegram
-
-<!-- [![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/givpn/)
-[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/givpn_grup/) -->
-
-# Donate
-
-[![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-yellow)](https://paypal.me/givpn11)
-[![QRIS donate button](https://img.shields.io/badge/Donate-QRIS-red)](https://raw.githubusercontent.com/jauharimtikhan/AutoScriptVps/master/image/qris-givpn.jpg)
-[![Bitcoin donate button](https://img.shields.io/badge/Donate-Bitcoin-orange)](https://www.blockchain.com/explorer/addresses/btc/3BE1deCJcuykuTHMzmrmNYgN51E24Hix8i)
-[![Ethereum donate button](https://img.shields.io/badge/Donate-Ethereum-blue)](https://www.blockchain.com/explorer/addresses/eth/0x3eb09df9a72e8e333e202116ff3eb348b3ebf554)
-
-# List Donate
-
-<!-- [![donate button](https://img.shields.io/badge/List-Donate-green)](https://github.com/givpn/donate) -->
-
-<!-- <a href="https://www.digitalocean.com/?refcode=8a474003bf18&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a> -->
 
 # ATTENTION (MUST READ) CAREFULLY
 
