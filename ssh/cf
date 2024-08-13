@@ -5,8 +5,8 @@ rm -rf /root/xray/scdomain
 mkdir -p /root/xray
 clear
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c5)
-DOMAIN=whatsapiservice.cloud
-SUB_DOMAIN=${sub}.whatsapiservice.cloud
+DOMAIN=jnologi.my.id
+SUB_DOMAIN=${sub}.jnologi.my.id
 CF_ID=bangjoe.muns@gmail.com
 CF_KEY=2975ef91ed146a53056c90f252e307a8a3f61
 set -euo pipefail
